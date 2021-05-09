@@ -1,0 +1,28 @@
+
+2021-05-09 18:30:14 Apache Commons Daemon procrun stdout initialized.
+2021-05-09 16:30:15.254+0000 INFO  Note that since you did not explicitly set the port in causal_clustering.transaction_advertised_address Neo4j automatically set it to 6001 to match causal_clustering.transaction_listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:15.255+0000 INFO  Note that since you did not explicitly set the port in causal_clustering.raft_advertised_address Neo4j automatically set it to 7001 to match causal_clustering.raft_listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:15.255+0000 INFO  Note that since you did not explicitly set the port in causal_clustering.discovery_advertised_address Neo4j automatically set it to 5001 to match causal_clustering.discovery_listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:15.255+0000 INFO  Note that since you did not explicitly set the port in dbms.connector.bolt.advertised_address Neo4j automatically set it to 7688 to match dbms.connector.bolt.listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:15.255+0000 INFO  Note that since you did not explicitly set the port in dbms.connector.http.advertised_address Neo4j automatically set it to 7475 to match dbms.connector.http.listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:15.255+0000 INFO  Note that since you did not explicitly set the port in dbms.connector.https.advertised_address Neo4j automatically set it to 6363 to match dbms.connector.https.listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:15.257+0000 INFO  Starting...
+2021-05-09 16:30:16.541+0000 INFO  ======== Neo4j 4.2.5 ========
+2021-05-09 16:31:02.678+0000 INFO  Bound database 'system' to raft with id '00000000-0000-0000-0000-000000000001' as member id '9fd1f635-a630-4219-82fe-711947f1e907', found on disk.
+2021-05-09 16:31:03.082+0000 INFO  Connected to localhost/127.0.0.1:7000 [raft version:3.0]
+2021-05-09 16:31:03.128+0000 INFO  Bound database 'neo4j' to raft with id '5097b790-055d-4018-8e5a-56649d65b04c' as member id '9fd1f635-a630-4219-82fe-711947f1e907', found on disk.
+2021-05-09 16:31:05.358+0000 INFO  Sending metrics to CSV file at C:\Users\madsm\.Neo4jDesktop\relate-data\dbmss\Core 2\metrics
+2021-05-09 16:31:05.371+0000 INFO  Bolt enabled on localhost:7688.
+2021-05-09 16:31:05.850+0000 INFO  Remote interface available at http://localhost:7475/
+2021-05-09 16:31:05.850+0000 INFO  Started.
+2021-05-09 16:31:14.032+0000 INFO  Connected to localhost/127.0.0.1:7002 [raft version:3.0]
+2021-05-09 16:38:05.466+0000 INFO  Lost connection to localhost/127.0.0.1:7000 [raft version:3.0]
+2021-05-09 16:38:22.702+0000 INFO  Connected to localhost/127.0.0.1:7000 [raft version:3.0]
+2021-05-09 16:38:23.911+0000 INFO  Lost connection to localhost/127.0.0.1:7000 [raft version:3.0]
+2021-05-09 16:38:53.527+0000 INFO  Connected to localhost/127.0.0.1:7000 [raft version:3.0]
+2021-05-09 16:38:56.186+0000 INFO  Lost connection to localhost/127.0.0.1:7000 [raft version:3.0]
+2021-05-09 16:39:55.260+0000 INFO  Connected to localhost/127.0.0.1:7000 [raft version:3.0]
+2021-05-09 17:09:09.001+0000 INFO  Lost connection to localhost/127.0.0.1:7000 [raft version:3.0]
+2021-05-09 17:09:19.364+0000 INFO  Stopping...
+2021-05-09 17:09:21.151+0000 INFO  Lost connection to localhost/127.0.0.1:7002 [raft version:3.0]
+2021-05-09 17:09:26.432+0000 INFO  Stopped.

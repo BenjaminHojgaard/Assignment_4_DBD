@@ -1,0 +1,16 @@
+
+2021-05-09 18:30:24 Apache Commons Daemon procrun stdout initialized.
+2021-05-09 16:30:25.008+0000 INFO  Note that since you did not explicitly set the port in causal_clustering.transaction_advertised_address Neo4j automatically set it to 6004 to match causal_clustering.transaction_listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:25.008+0000 INFO  Note that since you did not explicitly set the port in causal_clustering.raft_advertised_address Neo4j automatically set it to 7002 to match causal_clustering.raft_listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:25.009+0000 INFO  Note that since you did not explicitly set the port in causal_clustering.discovery_advertised_address Neo4j automatically set it to 5004 to match causal_clustering.discovery_listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:25.009+0000 INFO  Note that since you did not explicitly set the port in dbms.connector.bolt.advertised_address Neo4j automatically set it to 7691 to match dbms.connector.bolt.listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:25.009+0000 INFO  Note that since you did not explicitly set the port in dbms.connector.http.advertised_address Neo4j automatically set it to 7478 to match dbms.connector.http.listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:25.009+0000 INFO  Note that since you did not explicitly set the port in dbms.connector.https.advertised_address Neo4j automatically set it to 6366 to match dbms.connector.https.listen_address. This behavior may change in the future and we recommend you to explicitly set it.
+2021-05-09 16:30:25.011+0000 INFO  Starting...
+2021-05-09 16:30:26.175+0000 INFO  ======== Neo4j 4.2.5 ========
+2021-05-09 16:31:01.669+0000 INFO  Sending metrics to CSV file at C:\Users\madsm\.Neo4jDesktop\relate-data\dbmss\Core 3 - Replica 2\metrics
+2021-05-09 16:31:01.690+0000 INFO  Bolt enabled on localhost:7691.
+2021-05-09 16:31:02.436+0000 INFO  Remote interface available at http://localhost:7478/
+2021-05-09 16:31:02.436+0000 INFO  Started.
+2021-05-09 17:09:46.253+0000 INFO  Stopping...
+2021-05-09 17:09:51.810+0000 INFO  Stopped.

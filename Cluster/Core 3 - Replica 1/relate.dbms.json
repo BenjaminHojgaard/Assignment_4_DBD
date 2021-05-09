@@ -1,0 +1,19 @@
+{
+  "name": "Assignment 4 DBMS d8ab60da",
+  "description": "",
+  "tags": [
+    "neo4j-desktop-dbms-database-d8ab60da-f482-44aa-b5ef-9bbd2edba5ab"
+  ],
+  "id": "7e225979-03b1-4315-8a34-618437d9f1df",
+  "metadata": {
+    "neo4jDesktopStatistics": {
+      "dbId": "database-d8ab60da-f482-44aa-b5ef-9bbd2edba5ab",
+      "nodes": 0,
+      "relationships": 0,
+      "labels": 0,
+      "relationshipTypes": 0,
+      "propertyKeys": 0,
+      "upTime": 45192
+    }
+  }
+}

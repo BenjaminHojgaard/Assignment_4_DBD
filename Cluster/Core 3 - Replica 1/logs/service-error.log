@@ -1,0 +1,7 @@
+
+2021-05-09 18:30:20 Apache Commons Daemon procrun stderr initialized.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access using Lookup on org.neo4j.memory.RuntimeInternals (file:/C:/Users/madsm/.Neo4jDesktop/relate-data/dbmss/Core%203%20-%20Replica%201/lib/neo4j-unsafe-4.2.5.jar) to class java.lang.String
+WARNING: Please consider reporting this to the maintainers of org.neo4j.memory.RuntimeInternals
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
